@@ -1,5 +1,5 @@
 // Members: Helee Thumber (hat170030), Tanushri Singh (tts150030), Ko-Chen (Jack) Chen (kxc170002)
-// Project 2
+// Project 1
 
 import java.io.IOException;
 import java.net.InetAddress;
